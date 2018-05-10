@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HomeworkGDG</string>
+    <string name="toast">First Toast Ever</string>
 </resources>
